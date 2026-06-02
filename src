@@ -1,0 +1,13 @@
+polymarket-hft-bot/
+├── src/
+│   ├── index.ts
+│   ├── clobClient.ts
+│   ├── orderBookAnalyzer.ts
+│   ├── strategy.ts
+│   └── types.ts
+├── .env.example
+├── .gitignore
+├── package.json
+├── tsconfig.json
+├── render.yaml
+└── README.md
